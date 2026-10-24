@@ -170,7 +170,7 @@ As responsabilidades abaixo são sugestões de organização e precisam ser conf
 | Kauã Felipe | Brainstorming / Logística | Contribuir no processo criativo e na mão de obra |
 | Davi Lopes | Brainstorming / Logística | Contribuir no processo criativo e na mão de obra |
 | Rodrigo Caliari | Documentação / Design | Documentar as etapas do projeto |
-| Gabriela Avelar | Documentação | A definir com a equipe |
+| Gabriela Avelar | Documentação | Documentar etapas |
 
 ---
 
